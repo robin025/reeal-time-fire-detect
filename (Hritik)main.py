@@ -19,8 +19,6 @@ def testDevice(source):
 
 
 
-account_sid = 'AC8ef2b553e9ed89a984da1a9617c85f9a'
-auth_token = '276eda58847a4a1e821e835256ccf5ea'
 client = Client(account_sid, auth_token)
 
 #Loading the saved model
